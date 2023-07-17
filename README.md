@@ -1,4 +1,6 @@
 # 金蝶云星空二次开发踩坑记录（C#开发文档） 包含插件与WebAPI相关示例
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1680830740123697152.svg)](https://www.murphysec.com/console/report/1680830738982846464/1680830740123697152)
+
 整理了一个开发文档，包含部分示例代码，便于快速入门。
 
 
